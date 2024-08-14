@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karolinatchiling&label=Profile%20views&color=0e75b6&style=flat" alt="karolinatchiling" /> </p>
 
-- 🔭 I’m currently working on [ML Research in GNSS](https://lassonde.yorku.ca/research/lassonde-undergraduate-research-conference-2023-researchers)
+- 🔭 I’m currently researching [gender citation bias in software engineering literature](https://github.com/KarolinaTchiling/gender-citations-swe-public)
 
 - 🌱 I’m currently learning **JavaScript and Express.js**
 
