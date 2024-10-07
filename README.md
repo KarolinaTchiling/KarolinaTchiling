@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karolinatchiling&label=Profile%20views&color=0e75b6&style=flat" alt="karolinatchiling" /> </p>
 
-- 🔭 I’m currently researching [gender citation bias in software engineering literature](https://github.com/KarolinaTchiling/gender-citations-swe-public)
+- 🔭 I’m currently developing a citation bias mitigation web app as an extension of my research on [gender citation bias in software engineering literature](https://github.com/KarolinaTchiling/gender-citations-swe-public)
 
-- 🌱 I’m currently learning **JavaScript and Express.js**
+- 🌱 I’m currently learning the **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://www.karolina.codes/](https://www.karolina.codes/)
 
