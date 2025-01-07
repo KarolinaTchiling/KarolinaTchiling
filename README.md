@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently developing a citation bias mitigation web app as an extension of my research on [gender citation bias in software engineering literature](https://github.com/KarolinaTchiling/gender-citations-swe-public)
   
-- 💪🏻 My biggest project yet -> A full stack e-commerince store **[DJ Wamp's Merch Store](https://dj-wamp-merch-store.vercel.app/#/catalog/products)**
+- 💪🏻 My biggest project yet ➡ A full stack e-commerce store **[DJ Wamp's Merch Store](https://dj-wamp-merch-store.vercel.app/#/catalog/products)**
 
 - 🌱 I’m currently learning the **MERN Stack**
 
