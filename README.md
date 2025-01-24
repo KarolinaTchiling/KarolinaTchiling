@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **k.tchiling@gmail.com**
 
-- 📄 Know about my experiences [https://www.karolina.codes/cv]([https://www.karolina.codes/cv](https://karolina.codes/TchilinguirovaResumeS25.pdf))
+- 📄 Know about my experiences [https://www.karolina.codes/cv](https://karolina.codes/TchilinguirovaResumeS25.pdf)
 
 - 🌲 Fun fact **I have planted over half a million trees!**
 
