@@ -7,7 +7,7 @@
   
 - 💪🏻 My biggest project yet --> A full stack e-commerce store: **[DJ Wamp's Merch Store](https://dj-wamp-merch-store.vercel.app/#/catalog/products)**
 
-- 👨‍💻 All of my projects are available at [www.karolina.codes](https://www.karolina.codes)
+- 👨‍💻 All of my projects are available at [www.karolina.codes](https://karolina.codes/)
 
 - 📫 How to reach me **k.tchiling@gmail.com**
 
