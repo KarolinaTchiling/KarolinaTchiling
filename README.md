@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Karolina</h1>
-<h3 align="center">A passionate YorkU Computer Science Student based in Toronto</h3>
+<h3 align="center">A data curious YorkU Computer Science Student curently working as a Data Analyst Intern @ Hydro One</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karolinatchiling&label=Profile%20views&color=0e75b6&style=flat" alt="karolinatchiling" /> </p>
 
-- 🔭 I’m currently developing a citation bias mitigation web app as an extension of my research on [gender citation bias in software engineering literature](https://github.com/KarolinaTchiling/gender-citations-swe-public)
-  
-- 💪🏻 My biggest project yet --> A full stack e-commerce store: **[DJ Wamp's Merch Store](https://dj-wamp-merch-store.vercel.app/#/catalog/products)**
+- 💪🏻 My largest dev project --> A full stack e-commerce store: **[DJ Wamp's Merch Store](https://dj-wamp-merch-store.vercel.app/#/catalog/products)**
 
-- 👨‍💻 All of my projects are available at [www.karolina.codes](https://karolina.codes/)
+- 🔭 My most impactful dev project --> A citation bias mitigation web app as an extension of my research on [gender citation bias in software engineering literature](https://github.com/KarolinaTchiling/gender-citations-swe-public) *under-developement/not stable*
+
+- 👨‍💻 Research and GIS projects are available at [www.karolina.codes](https://karolina.codes/)
 
 - 📫 How to reach me **k.tchiling@gmail.com**
 
