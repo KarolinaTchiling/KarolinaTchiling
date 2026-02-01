@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karolina</h1>
-<h3 align="center">A data curious YorkU Computer Science Student curently working as a Data Analyst Intern @ Hydro One</h3>
+<h3 align="center">A data curious YorkU Comp-Sci student currently working as a Data Analyst Intern @ Hydro One</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karolinatchiling&label=Profile%20views&color=0e75b6&style=flat" alt="karolinatchiling" /> </p>
 
