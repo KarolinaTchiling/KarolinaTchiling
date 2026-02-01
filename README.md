@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karolinatchiling&label=Profile%20views&color=0e75b6&style=flat" alt="karolinatchiling" /> </p>
 
-- 💪🏻 My largest dev project --> A full stack e-commerce store: **[DJ Wamp's Merch Store](https://dj-wamp-merch-store.vercel.app/#/catalog/products)**
+💪🏻 My largest dev project --> A full stack e-commerce store: **[DJ Wamp's Merch Store](https://dj-wamp-merch-store.vercel.app/#/catalog/products)**
 
-- 🔭 My most impactful dev project --> A citation bias mitigation web app as an extension of my research on [gender citation bias in software engineering literature](https://github.com/KarolinaTchiling/gender-citations-swe-public) *under-developement/not stable*
+🔭 My most impactful dev project --> A citation bias mitigation web app as an extension of my research on [gender citation bias in software engineering literature](https://github.com/KarolinaTchiling/gender-citations-swe-public) *under-developement/not stable*
 
-- 👨‍💻 Research and GIS projects are available at [www.karolina.codes](https://karolina.codes/)
+👨‍💻 Research and GIS projects are available at [www.karolina.codes](https://karolina.codes/)
 
-- 📫 How to reach me **k.tchiling@gmail.com**
+📫 How to reach me **k.tchiling@gmail.com**
 
-- 📄 Know about my experiences [www.karolina.codes/cv](https://karolina.codes/KarolinaTchilinguirovaCV.pdf)
+📄 Learn about my experiences [www.karolina.codes/cv](https://karolina.codes/KarolinaTchilinguirovaCV.pdf)
 
-- 🌲 Fun fact **I have planted over half a million trees!**
+🌲 Fun fact **I have planted over half a million trees!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
